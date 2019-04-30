@@ -1,1 +1,2 @@
+add new line to feature b file.
 this is  a feature b file
