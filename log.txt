@@ -1,2 +1,3 @@
+fix a bug
 update the log file
 this is a log file
